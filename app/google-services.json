@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "850316189359",
+    "firebase_url": "https://android-project-cc247.firebaseio.com",
+    "project_id": "android-project-cc247",
+    "storage_bucket": "android-project-cc247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850316189359:android:e92c7a8a9230212d",
+        "android_client_info": {
+          "package_name": "id.web.proditipolines.kurir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850316189359-501q99o9ohvjva9uk6doepsm977qpb4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.web.proditipolines.kurir",
+            "certificate_hash": "9580e4aad54b00dbd31c0c0b6a284405a45ae38d"
+          }
+        },
+        {
+          "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnkKCNG8neXlvcMWbkA02KiWvIdWq0hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850316189359:android:e995da80df5b9f38",
+        "android_client_info": {
+          "package_name": "polines.sivira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850316189359-t3jji5us7qrdu9n1v62d06q8luqneegt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "polines.sivira",
+            "certificate_hash": "9580e4aad54b00dbd31c0c0b6a284405a45ae38d"
+          }
+        },
+        {
+          "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnkKCNG8neXlvcMWbkA02KiWvIdWq0hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850316189359:android:a9dddf31cc15cee3",
+        "android_client_info": {
+          "package_name": "tech.thiovan.transportdisplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850316189359-ru4cgodhn83hifd1c6k20oq50530o13k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.thiovan.transportdisplay",
+            "certificate_hash": "9580e4aad54b00dbd31c0c0b6a284405a45ae38d"
+          }
+        },
+        {
+          "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnkKCNG8neXlvcMWbkA02KiWvIdWq0hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850316189359:android:b813478e18328aee",
+        "android_client_info": {
+          "package_name": "tech.thiovan.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850316189359-jpijs037eu2h9jq62usdaolfebutnbes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.thiovan.transporttracker",
+            "certificate_hash": "9580e4aad54b00dbd31c0c0b6a284405a45ae38d"
+          }
+        },
+        {
+          "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnkKCNG8neXlvcMWbkA02KiWvIdWq0hQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850316189359-c9aed1llacg0vrjh85lvl90i5vh7lfqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
