@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="id.web.proditipolines.kurir.activities.HalamanUtama"
+    tools:context="id.web.proditipolines.kurir2.activities.HalamanUtama"
     tools:showIn="@layout/app_bar_halaman_utama">
 
     <FrameLayout

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFCCFFFF"
-    tools:context="id.web.proditipolines.kurir.activities.LoginActivity">
+    tools:context="id.web.proditipolines.kurir2.activities.LoginActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
